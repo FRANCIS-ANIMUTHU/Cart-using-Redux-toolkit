@@ -1,0 +1,8 @@
+.cartdiv{
+    display: flex;
+    flex-wrap: wrap;
+    background-color: burlywood;
+    justify-content: center;
+  
+}
+

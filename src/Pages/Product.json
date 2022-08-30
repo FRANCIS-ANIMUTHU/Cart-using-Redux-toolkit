@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "name": "Puma",
+        "price": "Rs.7500",
+        "qty": 1,
+        "img":"Puma.jpg"
+    },
+    {
+        "id": 2,
+        "name": "SG-Sunny Tonny",
+        "price": "Rs.9000",
+        "qty": 1,
+        "img": "SG-Sunny Tonny.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Ton",
+        "price": "Rs.8000",
+        "qty": 1,
+        "img": "Ton.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Ceat",
+        "price": "Rs.7000",
+        "qty": 1,
+        "img": "Ceat.jpg"
+    },
+    {
+        "id": 5,
+        "name": "MRF",
+        "price": "Rs.10000",
+        "qty": 1,
+        "img": "MRF.jpg"
+    },
+    {
+        "id": 6,
+        "name": "GM",
+        "price": "Rs.8500",
+        "qty": 1,
+        "img": "GM.png"
+    }
+]

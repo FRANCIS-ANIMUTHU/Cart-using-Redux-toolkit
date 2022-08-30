@@ -1,0 +1,6 @@
+.favdiv{
+    display: flex;
+    flex-wrap: wrap;
+  background-color: cornsilk;
+  justify-content: center;
+}

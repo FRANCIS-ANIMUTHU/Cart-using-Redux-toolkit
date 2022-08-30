@@ -1,0 +1,28 @@
+.maindiv{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    background-color: burlywood;
+    height: 1500px;
+    width: 100%;
+}
+.tools{
+    background-color: rgb(54, 161, 147);
+    height: 575px;
+    width: 300px;
+    margin-right: 20px;
+    margin-top: 40px;
+    text-align: center;
+    border-radius: 5%;
+}
+.img{
+    height: 300px;
+    width: 200;
+}
+.head{
+    color: rgb(226, 32, 19);
+}
+.detail{
+    font-size:20px;
+    background-color:darkgrey;
+}

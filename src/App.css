@@ -1,0 +1,14 @@
+.appdiv{
+  background-color: chartreuse;
+}
+.appdiv li{
+  display: inline;
+  font-size:x-large;
+  list-style: none;
+  text-decoration: none;
+  padding-right: 3%;
+  margin-right: 3%;
+}
+.link{
+  text-decoration: none;
+}
